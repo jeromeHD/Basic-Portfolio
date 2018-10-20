@@ -1,13 +1,14 @@
-.name{
-    font-weight: bolder
-}
-header{
+.header{
     height: 30px;
     width: 960px;
+    background-color: #ffffff;
 }
 
-footer{
+.footer{
     height: 30px;
     width: 960px;
+    background-color: #666666;
+    
+
     
 }
