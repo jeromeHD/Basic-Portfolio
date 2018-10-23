@@ -49,6 +49,7 @@ body{
     padding: 20px;
     border-style: solid;
     border-color: #cccccc;
+    color: #777777
 }
 
 #about{
@@ -84,4 +85,27 @@ p {
     width: 200px;
     height: 200px;
     margin-right: 20px;
+}
+
+#name-content,
+#email-content{
+    border-style: solid;
+    border-color: #cccccc;
+    color: #777777;
+    height: fit-content;
+    width: 960px;
+}
+
+#message-content{
+    border-style: solid;
+    border-color: #cccccc;
+    color: #777777;
+    height: 150px;
+    width: 960px;
+}
+
+#submit{
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 2px 14px 4px;
 }
