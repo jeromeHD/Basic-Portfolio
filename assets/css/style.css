@@ -109,3 +109,42 @@ p {
     color: #ffffff;
     padding: 2px 14px 4px;
 }
+
+.portfolio{
+    position: relative;
+    margin: 20px 200px 40px 200px;
+    background-color: #ffffff;
+    width: 960px;
+    height: 800px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #cccccc;
+    color: #777777;
+}
+.box-set{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border: 2px solid #777777;
+}
+
+.box-1{
+    top: 6%;
+    left: 2%;
+}
+.box-2{
+    top: 6%;
+    right: 2%;
+}
+.box-3{
+    top: 18%;
+    left: 2%
+}
+.box-4{
+    top: 18%;
+    right: 2%;
+}
+.box-5{
+    top: 30%;
+    left: 2%;
+}
