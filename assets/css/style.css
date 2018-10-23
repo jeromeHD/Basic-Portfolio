@@ -43,7 +43,7 @@ body{
 
 .container{
     position: relative;
-    margin: 20px 200px 40px 200px;
+    margin: 20px auto 40px auto;
     background-color: #ffffff;
     width: 960px;
     padding: 20px;
@@ -112,7 +112,7 @@ p {
 
 .portfolio{
     position: relative;
-    margin: 20px 200px 40px 200px;
+    margin: 20px auto 40px auto;
     background-color: #ffffff;
     width: 960px;
     height: 800px;
